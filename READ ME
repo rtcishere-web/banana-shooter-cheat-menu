@@ -1,0 +1,57 @@
+📖 Overview
+
+This project is a research and learning experiment for exploring how Unity-based games handle mechanics, data structures, and assets.
+The goal is to better understand:
+
+How Unity handles player input.
+
+How rendering and assets are managed.
+
+How to safely extend or mod game behavior for educational or customization purposes.
+
+⚠️ Disclaimer: This project is for educational and experimental purposes only. It is not intended for use in online play or to gain unfair advantages.
+
+🔧 Features (Planned / Example Ideas)
+
+Custom UI experiments (menus, HUD tweaks).
+
+FOV (field of view) adjustments for accessibility.
+
+Debug overlays (FPS counter, performance stats).
+
+Sandbox testing tools.
+
+📦 Installation
+
+Clone or download this repository.
+
+Open the project in Unity Editor or your preferred IDE.
+
+Follow the setup instructions in the /docs folder.
+
+🧩 Usage
+
+Launch the modified client in a local testing environment.
+
+Use keybinds or menu options to try out features.
+
+Collect logs and debug output for analysis.
+
+🚨 Legal & Ethics
+
+Do not use this in online play or multiplayer environments.
+
+This project is not affiliated with the original game developers.
+
+Respect the game’s terms of service and community guidelines.
+
+📚 Learning Resources
+
+Unity Scripting API
+
+Il2Cpp Reverse Engineering Guide
+
+C# for Game Development
+
+
+Made By Chatgbt SLAYYY
