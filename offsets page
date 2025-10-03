@@ -1,0 +1,25 @@
+| Field                   | Offset |
+| ----------------------- | ------ |
+| `Instance`              | 0x0    |
+| `WeaponIndex`           | 0x8    |
+| `CFIGADJPIPL`           | 0x20   |
+| `weapons`               | 0x28   |
+| `throwableManager`      | 0x30   |
+| `NGHKPJLHNAH`           | 0x38   |
+| `KKBAMOGDBEK`           | 0x40   |
+| `PIAAEGPNPMH`           | 0x48   |
+| `cams`                  | 0x50   |
+| `desiredFOV`            | 0x58   |
+| `defaultFOV`            | 0x5C   |
+| `speedUpFOV`            | 0x60   |
+| `arm`                   | 0x68   |
+| `CFNGOHHODBP`           | 0x70   |
+| `nightVission`          | 0x78   |
+| `flashLight`            | 0x80   |
+| `armAnimator`           | 0x90   |
+| `leftHandTarget`        | 0x98   |
+| `rightHandTarget`       | 0xA0   |
+| `weaponCamDefaultLayer` | 0xA8   |
+| `weaponCamAimingLayer`  | 0xAC   |
+| `isAiming`              | 0xB1   |
+--------------------------------------------
